@@ -1,0 +1,14 @@
+lantapcap.sh - Simple script to automated the capture 
+	and merging process when using a hardware TAP.
+
+By JP Dunning
+www.foundstone.com
+-------------------------------------------------------
+
+Usage: 
+	# ./lantapcap.sh 
+
+then provide interfaces when prompted. 
+
+
+See blog.opensecurityresearch.com
